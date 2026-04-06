@@ -41,7 +41,7 @@ Vous pouvez demander:
 - la rectification de vos donnees
 - la suppression de vos donnees
 
-Pour exercer vos droits, contactez: support@barlee.app
+Pour exercer vos droits, contactez: alexandre.leeder@gmail.com
 
 ## Securite
 
