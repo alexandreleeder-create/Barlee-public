@@ -1,7 +1,7 @@
 # BARLEE - Support
 
 Besoin d aide ? Contactez-nous:
-- alexandre.leeder@gmail.com
+- support@familee-app.com
 
 Delai de reponse cible: 48h ouvrees.
 
@@ -24,7 +24,7 @@ Pour accelerer le support, merci d inclure:
 
 ## Suppression de compte et donnees
 
-Envoyez votre demande a alexandre.leeder@gmail.com avec l objet:
+Envoyez votre demande a support@familee-app.com avec l objet:
 "Suppression compte BARLEE".
 
 ## Mentions
