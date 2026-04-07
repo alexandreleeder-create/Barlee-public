@@ -41,7 +41,7 @@ Vous pouvez demander:
 - la rectification de vos donnees
 - la suppression de vos donnees
 
-Pour exercer vos droits, contactez: alexandre.leeder@gmail.com
+Pour exercer vos droits, contactez: support@familee-app.com
 
 ## Securite
 
@@ -54,4 +54,4 @@ BARLEE n est pas destinee aux mineurs selon la legislation applicable.
 ## Contact
 
 Pour toute question liee a la confidentialite:
-- alexandre.leeder@gmail.com
+- support@familee-app.com
